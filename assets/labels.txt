@@ -1,0 +1,4 @@
+0 Motorcycle
+1 Bus
+2 Car
+3 Truck
